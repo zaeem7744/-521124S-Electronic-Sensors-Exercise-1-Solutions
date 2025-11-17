@@ -14,7 +14,7 @@
 
 ## Task 1 – Thermocouple circuit
 
-**Given (your individual values):**
+**Given (My individual values):**
 
 - Thermocouple EMF at $800^\circ\text{C}$ (reference $0^\circ\text{C}$):  
   $E = 35.2\,\text{mV} = 0.0352\,\text{V}$
@@ -115,9 +115,13 @@ $$\boxed{\Delta \theta \approx -5.1^\circ\text{C}\ \text{(indication too low)}}$
 
 ---
 
+![Question One](Task_B.png)
+
+---
+
 ## Task 2 – Total radiation pyrometer
 
-**Given (your individual values):**
+**Given (My individual values):**
 
 - Plate temperature:  
   $T = 145^\circ\text{C} = 418.15\,\text{K}$
