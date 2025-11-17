@@ -160,7 +160,7 @@ Detector power:
 
 $$P = E\,A_{\text{det}}$$
 
-Instead of full numeric recomputation, we scale from the reference solution in the course notes (same optics):
+Instead of full numeric recomputation, lets scale from the reference solution in the course lecture :
 
 - $T_{\text{ref}} = 160^\circ\text{C} = 433.15\,\text{K}$  
 - $\varepsilon_{\text{ref}} = 0.8$  
